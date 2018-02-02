@@ -8,6 +8,7 @@ register = template.Library()
 def get_recent_posts(num=5):
     return Post.objects.all()[:num]
 
+
 #归档末班
 @register.simple_tag
 def get_archives():

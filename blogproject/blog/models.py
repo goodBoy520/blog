@@ -40,3 +40,4 @@ class Post(models.Model):
 
     class Meta:
         ordering = ['-id']
+
