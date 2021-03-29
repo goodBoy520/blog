@@ -8,7 +8,7 @@ idna==2.6
 itchat==1.2.32
 Markdown==2.6.11
 pdfkit==0.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 PyMySQL==0.8.0
 pypng==0.0.18
 PyQRCode==1.2.1
